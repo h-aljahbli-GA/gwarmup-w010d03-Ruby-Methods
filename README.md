@@ -61,20 +61,20 @@ missing_num([9,6,4,2,3,5,7,0,1]) #8
 
 ```
 
-
-
 ## Story of Fry
-Make a loop in the on the story array and print each element untill there are no longer any elements to print
+Make a loop on the story array and print each element untill there are no longer any elements to print
 
 
 ## Example 1:
 
 ```  
-'Fry is born without a delta brainwave',
-'As a result, Fry is cryogenically frozen until 2999',
-'In the future, Fry works on a spaceship',
-'The spaceship hits a wormhole and crashes in 1941 Roswell, NM',
-'Fry encounters his grandmother, then inadvertently sires his father'
+
+Output:
+    'Fry is born without a delta brainwave',
+    'As a result, Fry is cryogenically frozen until 2999',
+    'In the future, Fry works on a spaceship',
+    'The spaceship hits a wormhole and crashes in 1941 Roswell, NM',
+    'Fry encounters his grandmother, then inadvertently sires his father'
 
 ```
 
